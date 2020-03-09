@@ -13,11 +13,11 @@ zebra to horse, horse to zebra
 
 horse to zebra adversarial losses
 
-![h2z_loss](./assets/CycleGAN-z2h_results.png)
+![h2z_loss](./assets/CycleGAN-h2z_loss_figure.png)
 
 zebra to horse adversarial losses
 
-![z2h_loss](./assets/CycleGAN-z2h_results.png)
+![z2h_loss](./assets/CycleGAN-z2h_loss_figure.png)
 
 cycle consistency losses
 
